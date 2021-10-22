@@ -1,0 +1,8 @@
+a28bcf2 (HEAD -> feature2, origin/master, origin/feature2, origin/feature1, origin/develop, master, feature1, develop) HEAD@{0}: checkout: moving from feature1 to feature2
+a28bcf2 (HEAD -> feature2, origin/master, origin/feature2, origin/feature1, origin/develop, master, feature1, develop) HEAD@{1}: checkout: moving from develop to feature1
+a28bcf2 (HEAD -> feature2, origin/master, origin/feature2, origin/feature1, origin/develop, master, feature1, develop) HEAD@{2}: checkout: moving from master to develop
+a28bcf2 (HEAD -> feature2, origin/master, origin/feature2, origin/feature1, origin/develop, master, feature1, develop) HEAD@{3}: merge develop: Fast-forward
+9ee43b8 HEAD@{4}: checkout: moving from feature2 to master
+a28bcf2 (HEAD -> feature2, origin/master, origin/feature2, origin/feature1, origin/develop, master, feature1, develop) HEAD@{5}: merge develop: Fast-forward
+14e6d55 HEAD@{6}: checkout: moving from feature1 to feature2
+:
